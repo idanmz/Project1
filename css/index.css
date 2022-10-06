@@ -1,0 +1,55 @@
+.car{
+    width: 800px;
+    min-height: 600px;
+    float: left;
+    background: lightcoral;
+}
+.head{
+    width: 800px;
+    min-height: 70px;
+    float: left;
+    background: lightpink;
+    margin-bottom: 10px;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+.center{
+    width: 800px;
+    min-height: 460px;
+    float: left;
+    background: coral;
+}
+.bottom{
+    width: 800px;
+    min-height: 70px;
+    float: left;
+    background: lightpink;
+    margin-top: 10px;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+.nav{
+    width: 200px;
+    min-height: inherit;
+    background:lightpink;
+    float: left;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+.art{
+    width: 420px;
+    min-height: inherit;
+    background:lightpink;
+    float: left;
+    margin: 0px 15px;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+.ads{
+    width: 150px;
+    min-height: inherit;
+    background: lightpink;
+    float: left;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
